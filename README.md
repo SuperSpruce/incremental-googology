@@ -24,7 +24,7 @@ Also, people working on BMS are interested in larger structures, so they did not
 In the game, the beginning system should be able to accept bonus from higher structure,
 while named numbers should have their place for special effects, which should come in later game,
 so a strong system without named numbers, such as BMS, suits the beginning.)
-### ^^^ But this is from the guy who made Strong Array Notation, an extremely powerful groundbreaking notation (but not as powerful as BMS)!
+#### ^^^ But this is from the guy who made Strong Array Notation, an extremely powerful groundbreaking notation (but not as powerful as BMS)!
 
 The game is now playable for hours, or days for some achievements.
 ## Main Difficulty 1
