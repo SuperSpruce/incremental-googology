@@ -1,4 +1,4 @@
-# Incremental Googology
+# Incremental Googology: Original Plan
 Incremental Googology is an incremental game (a.k.a. idle game or clicker game),
 with googological content, including large numbers, fast-growing functions,
 notations for large numbers, ordinals and ordinal notations (mainly comes from [Googology Wiki](https://googology.wikia.com)).
@@ -24,6 +24,7 @@ Also, people working on BMS are interested in larger structures, so they did not
 In the game, the beginning system should be able to accept bonus from higher structure,
 while named numbers should have their place for special effects, which should come in later game,
 so a strong system without named numbers, such as BMS, suits the beginning.)
+### ^^^ But this is from the guy who made Strong Array Notation, an extremely powerful groundbreaking notation (but not as powerful as BMS)!
 
 The game is now playable for hours, or days for some achievements.
 ## Main Difficulty 1
@@ -107,3 +108,10 @@ but changing how the source googologisms combine.
 When tuning, the usual way is to change some numbers, so it requires small changes on codes,
 but the Incremental Googology way requires reconstruction of how sources combine,
 which need large changes on codes, so it is more difficult.
+
+
+# Bashicu Matrix Incremental (SuperSpruce's revamp of Incremental Googology)
+This game is a rebalancing of the first part of Incremental Googology at first, but will deviate from it.
+
+## The deviation
+Instead of using many googological notations and reaching all of computable googology, this game will only use BMS (Bashicu Matrix System), and reach tetrational values. To prevent the numbers from getting too big, there will be an acsension-like mechanic (ascension in Realm Grinder) that keeps the progress strong, but nerfs the numbers.
